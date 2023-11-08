@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Player Movement Params
   m_EditorClassIdentifier: 
   data:
-    jumpHeight: 2
+    jumpHeight: 3.25
     bounceHeight: 2.5
     legReach_pawnWidth: 0.45
     legReach_extraWhenRunning: 0.3
@@ -22,9 +22,9 @@ MonoBehaviour:
     footholdRaycastResolution: 14.2
     maxSlope: 50
     maxRunSpeed: 7
-    maxRunAccel: 50
+    maxRunAccel: 100
     airControl_maxSpeed: 5
-    airControl_maxAccel: 25
-    drag_air: 0.01
-    drag_braking_passive: 30
+    airControl_maxAccel: 100
+    drag_air: 0.1
+    drag_braking_passive: 50
     drag_braking_reversalHelp: 10
