@@ -7,10 +7,13 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/LDP/Main.unity
-    guid: 00000000000000000000000000000000
-  - enabled: 1
+    guid: 04df639421d16fd44beae7ee2b6275c2
+  - enabled: 0
     path: Assets/LDP/Template Level.unity
-    guid: 00000000000000000000000000000000
+    guid: 4f9986ffb4fa0e24e9713688c0def2bb
+  - enabled: 1
+    path: Assets/LDP/Level.unity
+    guid: 50374c9b3d29f024dbd2d55ffe9d191b
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 3b7a3995f6b70124d97615871329bb38,
       type: 2}
